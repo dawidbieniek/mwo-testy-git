@@ -1,1 +1,3 @@
-# To jest plik readme na galezi feature-A
+# To jest plik readme na galezi feature-B
+
+# Wiecej tekstu
